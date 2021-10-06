@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1617882786 source:/media/do7a/New Volume/iti/software fundamentals/C Language/Day1/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1618098712 source:/media/do7a/New Volume/iti/software fundamentals/C Language/code.blocks/Day1/main.c
+	<stdio.h>
+	<stdlib.h>
+

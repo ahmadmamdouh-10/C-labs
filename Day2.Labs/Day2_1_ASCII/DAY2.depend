@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1618055193 source:/home/do7a/Day2_1_ASCII/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1618055193 source:/media/do7a/New Volume/iti/software fundamentals/C Language/code.blocks/Day2_1_ASCII/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1618193807 source:/media/do7a/New Volume/iti/software fundamentals/C/code.blocks/Day2_1_ASCII/main.c
+	<stdio.h>
+	<stdlib.h>
+

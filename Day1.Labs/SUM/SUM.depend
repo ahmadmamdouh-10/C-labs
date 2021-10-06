@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618097178 source:/media/do7a/New Volume/iti/software fundamentals/C Language/code.blocks/SUM/main.c
+	<stdio.h>
+	<stdlib.h>
+

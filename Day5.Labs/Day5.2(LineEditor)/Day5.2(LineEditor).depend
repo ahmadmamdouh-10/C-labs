@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619619082 source:c:\day5.2(lineeditor)\main.c
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+

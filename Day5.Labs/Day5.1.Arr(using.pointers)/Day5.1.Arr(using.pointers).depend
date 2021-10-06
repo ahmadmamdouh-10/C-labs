@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619450979 source:c:\day6.arr(using.pointers)\main.c
+	<stdio.h>
+	<stdlib.h>
+

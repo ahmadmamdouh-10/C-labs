@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1618062303 source:/media/do7a/New Volume/iti/software fundamentals/C Language/code.blocks/Day2_3_Sum/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1618062303 source:/media/do7a/New Volume/iti/S_F/C/code.blocks/code.blocks/Day2.Labs/Day2_3_Sum/main.c
+	<stdio.h>
+	<stdlib.h>
+

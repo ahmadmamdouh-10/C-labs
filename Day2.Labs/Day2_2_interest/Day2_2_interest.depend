@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1618064044 source:/home/do7a/Day2_2_interest/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<ctype.h>
+
+1618188590 source:/media/do7a/New Volume/iti/software fundamentals/C/code.blocks/Day2_2_interest/main.c
+	<stdio.h>
+	<stdlib.h>
+
